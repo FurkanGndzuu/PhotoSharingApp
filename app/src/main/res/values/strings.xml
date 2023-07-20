@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PhotoSharingApp</string>
+    <string name="permission_required">MEDIA access is required to display the MEDIA preview.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can use the Gallery now.</string>
 </resources>
